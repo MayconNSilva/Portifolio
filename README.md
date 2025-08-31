@@ -11,4 +11,4 @@
 
 🔗 Live Demo
 
-[👉 Clique aqui para ver o site online](https://mayconnsilva.github.io/Portifolio)
+<a href="https://mayconnsilva.github.io/Portifolio" target="_blank">👉 Clique aqui para ver o site online</a>
